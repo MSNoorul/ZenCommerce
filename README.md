@@ -23,6 +23,16 @@ ZenCommerce is a secure, JWT-authenticated Spring Boot backend for an e-commerce
 - `scripts/` – database seeding, migration, utilities
 - `tests/` – tests or test notes
 
+Comprehensive documentation for EcomExpress is available in the docs/ folder:
+
+- [docs/api.md](/docs/api.md) — API reference and usage
+- [docs/architecture.md](/docs/architecture.md) — System architecture and data model
+- [docs/security.md](/docs/security.md) — Security design and JWT details
+- [docs/contributing.md](/docs/contributing.md) — Contribution guidelines
+- [docs/changelog.md](/docs/changelog.md) — Change log
+- [docs/deploy.md](/docs/deploy.md) — Deployment notes and Docker guidance
+- [docs/setup.md](/docs/setup.md) — How to set up and run the project locally
+
 ## Prerequisites
 - Java JDK 17 or higher
 - Maven or Gradle
