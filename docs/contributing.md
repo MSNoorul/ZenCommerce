@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for considering contributing to EcomExpress!
+Thank you for considering contributing to ZenCommerce!
 
 How to contribute
 - Fork the repo and create a feature branch
