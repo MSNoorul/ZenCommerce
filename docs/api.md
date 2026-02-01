@@ -1,4 +1,4 @@
-# API Reference (EcomExpress)
+# API Reference (ZenCommerce)
 
 Auth
 - POST /api/auth/login
