@@ -1,7 +1,7 @@
 # Architecture
 
 ## Overview
-EcomExpress is a layered Spring Boot application with a focus on modularity, testability, and security. It uses JWT for stateless authentication and role-based access control.
+ZenCommerce is a layered Spring Boot application with a focus on modularity, testability, and security. It uses JWT for stateless authentication and role-based access control.
 
 ## Architecture Diagram (Text)
 - Client (Web/Mobile)
